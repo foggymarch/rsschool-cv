@@ -1,2 +1,2 @@
 # rsschool-cv
-[link](https://foggymarch.github.io/rsschool-cv/cv "github")
+[github](https://foggymarch.github.io/rsschool-cv/cv "github")
