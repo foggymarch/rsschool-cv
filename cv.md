@@ -1,37 +1,37 @@
-Alexander Markevich
+# Alexander Markevich
 
-Contacts
+## Contacts
 
-Location: Brest, Belarus
-Phone: +375295250432
-Email: amarkevich89@gmail.com
-GitHub: foggymarch
-Discord: foggymarch#7301
+* Location: Brest, Belarus
+* Phone: +375295250432
+* Email: amarkevich89@gmail.com
+* GitHub: foggymarch
+* Discord: foggymarch#7301
 
-About Me
+## About Me
 
 I'm 32 years. I'm a photographer. I am interested in design and music. I would like to get a new front-end profession and change my life! I hope I can do it!
 
-Skills
+## Skills
 
-HTML basic
-CSS basic
+* HTML basic
+* CSS basic
 
-Code Example
+## Code Example
 
 function multiply(a, b){
  return (a * b); 
 }
 
-Experience
+## Experience
 
-Education
+## Education
 
-Brest State Vocational and Technical College of Instrument Engineering
+* Brest State Vocational and Technical College of Instrument Engineering
 
-English
+## Languages
 
-Streamline Language School
+* Streamline Language School
 
-Russian - native speaker
-English - A2+
++ Russian - native speaker
++ English - A2+
