@@ -1,3 +1,62 @@
-.hello {
-    color: blue;
+* {
+    box-sizing: border-box;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: Oswald, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #696969;
+}
+
+.header {
+    background-color: gray;
+}
+.main {
+
+}
+
+.footer {
+    
+}
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section {
+    width: 50%;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+.nav-list {
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+}
+.nav-link:hover {
+    transition: 2s;
+    color: tomato;
+}
+
